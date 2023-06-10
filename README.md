@@ -1,8 +1,8 @@
-## Addtopath 
+# Addtopath 
 
 > Add standalone script to path and install a python package.
 
-### Installation
+## Installation
 1. Clone repo 
 ```sh
 git clone https://github.com/Simatwa/readme.git
@@ -14,7 +14,7 @@ cd readme
 bash setup.sh setup.sh addtopath
 ```
 
-### Usage
+## Usage
 
 ```sh
 $ addtopath <path-to-script> <script-path-name>
