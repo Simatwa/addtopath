@@ -55,8 +55,9 @@ function install_dependencies()
 function add_python_path()
 {
     printf "$YELLOW Installing python  package\n$RESET"
-    pip3 install .
+    #pip3 install .
     install_dependencies
+    python3 setup.py install
     printf "$GREEN Installation done successfully!\n"
 }
 
