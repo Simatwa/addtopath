@@ -5,8 +5,8 @@
 ## Installation
 1. Clone repo 
 ```sh
-git clone https://github.com/Simatwa/readme.git
-cd readme
+git clone https://github.com/Simatwa/addtopath.git
+cd addtopath
 ```
 2. Run
 
